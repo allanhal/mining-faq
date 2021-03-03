@@ -27,7 +27,8 @@ Recomenda-se usar no máximo 2 molex por "perna" da fonte. Mesmo que a perna pos
 
 ## Quanto dá por dia minha 2060/rx 580/2070?
 
-[whattomine.com](whattomine.com)
+- [whattomine.com](whattomine.com)
+- [https://2cryptocalc.com/](https://2cryptocalc.com/)
 
 ## Como calcular meu custo de energia?
 
