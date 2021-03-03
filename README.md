@@ -14,6 +14,7 @@ Flexpool:
 ## Existe aplicativo melhor que a NiceHash?
 
 Sim, todos os outros.
+<br />
 NiceHash é interessante para aprender, mas não vale a pena continuar minerando nela.
 
 ## Quais as melhores Pools?
@@ -68,10 +69,13 @@ Ainda não. (2021-03-03)
 
 ## Curti esse faq, como faz pra doar?
 
-ETH: 0x15b9c3806cc4834fdac9dad6260fb12baeea9b00
-Chave do pix: 72626927-c1d0-4a35-b016-4d1c4ce57db9
+- ETH: 0x15b9c3806cc4834fdac9dad6260fb12baeea9b00
+- Chave do pix: 72626927-c1d0-4a35-b016-4d1c4ce57db9
+- Chave do pix: <br /><img src="https://i.postimg.cc/MKmn6qCM/photo-2021-03-03-19-14-41.jpg" 
+alt="qrcode" width="15%" border="10" />
 
 ## Como calcular o consumo do pc completo?
 
 [https://outervision.com/power-supply-calculator](https://outervision.com/power-supply-calculator)
+<br />
 Pode colocar o processador como 50% de consumo. Consome até menos.
