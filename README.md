@@ -28,11 +28,11 @@ Recomenda-se usar no máximo 2 molex por "perna" da fonte. Mesmo que a perna pos
 ## Quanto dá por dia minha 2060/rx 580/2070? Como calcular minha rentabilidade?
 
 - [whattomine.com](whattomine.com)
-- [https://2cryptocalc.com/](https://2cryptocalc.com/)
+- [2cryptocalc.com](2cryptocalc.com)
 
 ## Como calcular meu custo de energia?
 
-[https://adrianoaoli.com/eletronica/calculadora-consumo-eletrico.html](https://adrianoaoli.com/eletronica/calculadora-consumo-eletrico.html)
+[adrianoaoli.com/eletronica/calculadora-consumo-eletrico.html](adrianoaoli.com/eletronica/calculadora-consumo-eletrico.html)
 
 ## Meu riser não conectou, o que eu faço?
 
@@ -77,25 +77,25 @@ alt="qrcode" width="15%" border="10" />
 
 ## Como calcular o consumo do pc completo?
 
-[https://outervision.com/power-supply-calculator](https://outervision.com/power-supply-calculator)
+[outervision.com/power-supply-calculator](outervision.com/power-supply-calculator)
 <br />
 Pode colocar o processador como 50% de consumo. Consome até menos.
 
 ## Qual a melhor config pra minha placa de vídeo (OC)?
 
 Não existe receita de bolo, mas existem algumas configs no:
-- [https://miningchamber.com/](https://miningchamber.com/)
+- [miningchamber.com](miningchamber.com/)
 - [whattomine.com](whattomine.com)
 
 ## Qual a melhor pool?
 
 Depende.
 - Comparador de pools:
-  - [https://ethminingpools.tk/](https://ethminingpools.tk/)
-  - [https://miningpoolstats.stream/ethereum](https://miningpoolstats.stream/ethereum)
+  - [ethminingpools.tk/](ethminingpools.tk/)
+  - [miningpoolstats.stream/ethereum](miningpoolstats.stream/ethereum)
 
 
 ## Minha rentabilidade caiu, o que aconteceu?
 
 - Mineração varia. Não é renda fixa.
-- Veja o quanto ela já variou ao longo do tempo: [https://bitinfocharts.com/comparison/ethereum-mining_profitability.html](https://bitinfocharts.com/comparison/ethereum-mining_profitability.html)
+- Veja o quanto ela já variou ao longo do tempo: [bitinfocharts.com/comparison/ethereum-mining_profitability.html](bitinfocharts.com/comparison/ethereum-mining_profitability.html)
