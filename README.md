@@ -23,12 +23,12 @@ Recomenda-se usar no máximo 2 molex por "perna" da fonte. Mesmo que a perna pos
 
 ## Quanto dá por dia minha 2060/rx 580/2070? Como calcular minha rentabilidade?
 
-- [whattomine.com](whattomine.com)
-- [2cryptocalc.com](2cryptocalc.com)
+- [whattomine.com](https://whattomine.com)
+- [2cryptocalc.com](https://2cryptocalc.com)
 
 ## Como calcular meu custo de energia?
 
-[adrianoaoli.com/eletronica/calculadora-consumo-eletrico.html](adrianoaoli.com/eletronica/calculadora-consumo-eletrico.html)
+[adrianoaoli.com/eletronica/calculadora-consumo-eletrico.html](https://adrianoaoli.com/eletronica/calculadora-consumo-eletrico.html)
 
 ## Meu riser não conectou, o que eu faço?
 
@@ -73,29 +73,29 @@ alt="qrcode" width="15%" border="10" />
 
 ## Como calcular o consumo do pc completo?
 
-[outervision.com/power-supply-calculator](outervision.com/power-supply-calculator)
+[outervision.com/power-supply-calculator](https://outervision.com/power-supply-calculator)
 <br />
 Pode colocar o processador como 50% de consumo. Consome até menos.
 
 ## Qual a melhor config pra minha placa de vídeo (OC)?
 
 Não existe receita de bolo, mas existem algumas configs no:
-- [miningchamber.com](miningchamber.com/)
-- [whattomine.com](whattomine.com)
+- [miningchamber.com](https://miningchamber.com/)
+- [whattomine.com](https://whattomine.com)
 - Pesquise sobre configurações de overclock para mineração no youtube.
 
 ## Qual a melhor pool?
 
 No Brasil atualmente: Ethermine, Flexpool, 2miners, nanopool...
 - Comparador de pools:
-  - [ethminingpools.tk/](ethminingpools.tk/)
-  - [miningpoolstats.stream/ethereum](miningpoolstats.stream/ethereum)
+  - [ethminingpools.tk/](https://ethminingpools.tk/)
+  - [miningpoolstats.stream/ethereum](https://miningpoolstats.stream/ethereum)
 
 
 ## Minha rentabilidade caiu, o que aconteceu?
 
 - Mineração varia. Não é renda fixa.
-- Veja o quanto ela já variou ao longo do tempo: [bitinfocharts.com/comparison/ethereum-mining_profitability.html](bitinfocharts.com/comparison/ethereum-mining_profitability.html)
+- Veja o quanto ela já variou ao longo do tempo: [bitinfocharts.com/comparison/ethereum-mining_profitability.html](https://bitinfocharts.com/comparison/ethereum-mining_profitability.html)
 - Está cada vez recompensando menos ETH, pois a dificuldade aumenta ao longo do tempo: [https://etherscan.io/chart/difficulty](https://etherscan.io/chart/difficulty)
 
 ## Como recebo dinheiro na minha conta bancária?
@@ -112,7 +112,7 @@ Não. Tem exceção? Se vc está perguntando e pesquisando nesse FAQ...não.
 
 ## E Allan, qual a configuração que você usa?
 
-[twitch.tv/allanhal](twitch.tv/allanhal)
+[twitch.tv/allanhal](https://twitch.tv/allanhal)
 
 ## E a temperatura da minha placa, está alta?
 
