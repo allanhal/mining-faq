@@ -1,9 +1,9 @@
 # FAQ sobre mineração:
 
 
-## Qual a pool que paga em menos tempo?
+## Qual a pool que paga em menos tempo? Como faço pra sacar da minha pool?
 
-Ethermine:
+Ethermine configuração padrão:
 - Caso você minere 0.1 ETH vai receber na sua wallet todo dia.
 - Caso você minere acima de 0.05 ETH vai receber a cada 7 dias.
 - Caso você minere acima de 0.01 ETH vai receber a cada 14 dias.
