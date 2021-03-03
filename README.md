@@ -70,4 +70,7 @@ Ainda não. (2021-03-03)
 
 ETH: 0x15b9c3806cc4834fdac9dad6260fb12baeea9b00
 
+## Como calcular o consumo do pc completo?
 
+[https://outervision.com/power-supply-calculator](https://outervision.com/power-supply-calculator)
+Pode colocar o processador como 50% de consumo. Consome até menos.
