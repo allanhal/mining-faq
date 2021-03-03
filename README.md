@@ -57,3 +57,11 @@ TOTALMENTE não recomendável. Use cabeado.
 - fonte
 - placa de vídeo
 - risers caso deseje instalar várias placas
+
+## Ethereum (ETH) vai subir ou cair?
+
+50% de chance de cair e 50% de chance de subir. Pare de tentar advinhar e não acredite em quem tenta.
+
+## EIP 1559 e ETH 2.0, existe alguma decisão sobre?
+
+Ainda não. (2021-03-03)
