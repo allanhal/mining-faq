@@ -23,3 +23,7 @@ No Brasil atualmente: Ethermine, Flexpool, 2miners, nanopool...
 # Quantos molex posso usar?
 
 Recomenda-se usar no máximo 2 molex por "perna" da fonte. Mesmo que a perna possua 4 molex por perna.
+
+# Quanto dá por dia minha 2060/rx 580/2070?
+
+[whattomine.com](whattomine.com)
