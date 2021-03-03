@@ -15,7 +15,7 @@ Flexpool:
 
 - Sim, todos os outros.
 - NiceHash é interessante para aprender, mas não vale a pena continuar minerando nela.
-- Pesquise sobre mineradores (phoenix, t-rex, GMiner, Teamred), pools (ethermine, flexpool, 2miners) e wallets (binance, coinomi, novadax, mercado bitcoin, paper wallet, hardware wallet).
+- Pesquise sobre mineradores (phoenix, t-rex, GMiner, Teamred), pools (ethermine, flexpool, 2miners) e wallets (binance [binance.com](https://www.binance.com/en/register?ref=80820708), coinomi, novadax, mercado bitcoin, paper wallet, hardware wallet).
 
 ## Quais as melhores Pools?
 
