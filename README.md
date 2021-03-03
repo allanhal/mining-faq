@@ -93,3 +93,9 @@ Depende.
 - Comparador de pools:
   - [https://ethminingpools.tk/](https://ethminingpools.tk/)
   - [https://miningpoolstats.stream/ethereum](https://miningpoolstats.stream/ethereum)
+
+
+## Minha rentabilidade caiu, o que aconteceu?
+
+- Mineração varia. Não é renda fixa.
+- Veja o quanto ela já variou ao longo do tempo: [https://bitinfocharts.com/comparison/ethereum-mining_profitability.html](https://bitinfocharts.com/comparison/ethereum-mining_profitability.html)
