@@ -111,4 +111,4 @@ Geralmente o fluxo é:
 
 ## Vale a pena minerar com CPU/Processador?
 
-Não.
+Não. Tem exceção? Se vc está perguntando e pesquisando nesse FAQ...não.
