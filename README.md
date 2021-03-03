@@ -82,6 +82,7 @@ Pode colocar o processador como 50% de consumo. Consome até menos.
 Não existe receita de bolo, mas existem algumas configs no:
 - [miningchamber.com](miningchamber.com/)
 - [whattomine.com](whattomine.com)
+- Pesquise sobre configurações de overclock para mineração no youtube.
 
 ## Qual a melhor pool?
 
