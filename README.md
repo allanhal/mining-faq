@@ -121,3 +121,7 @@ Não. Tem exceção? Se vc está perguntando e pesquisando nesse FAQ...não.
 ## Qual a melhor placa de vídeo/gpu?
 
 - rtx 3070, rtx 3060 ti, rtx 3080, rx 580 8gb, rx 5700xt, rx 5600xt, rx 570 8gb, rx 5500 8gb.
+
+## Qual o motivo das placas estarem tão caras?
+
+Oferta demanda.
