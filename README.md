@@ -99,3 +99,4 @@ Depende.
 
 - Mineração varia. Não é renda fixa.
 - Veja o quanto ela já variou ao longo do tempo: [bitinfocharts.com/comparison/ethereum-mining_profitability.html](bitinfocharts.com/comparison/ethereum-mining_profitability.html)
+- Está cada vez recompensando menos ETH, pois a dificuldade aumenta ao longo do tempo: [https://etherscan.io/chart/difficulty](https://etherscan.io/chart/difficulty)
