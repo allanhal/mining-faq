@@ -108,3 +108,7 @@ Geralmente o fluxo é:
 - Pool
 - Wallet
 - Conta bancária
+
+## Vale a pena minerar com CPU/Processador?
+
+Não.
