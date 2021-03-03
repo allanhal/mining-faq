@@ -128,6 +128,12 @@ Oferta demanda.
 
 ## Qual a taxa para minerar?
 
+Minerador:
 - PhoenixMiner: 0.65%
 - Teamred: 0.5~1%
 - T-rex: 0.5~1%
+
+Pool:
+- Ethermine: 1%
+- Flexpool: 1% (pode ser configurado pra 0.5% se você conseguir assinar uma mensagem usando sua carteira)
+- Binance Pool: 0.5%
