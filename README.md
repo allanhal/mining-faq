@@ -65,3 +65,9 @@ TOTALMENTE não recomendável. Use cabeado.
 ## EIP 1559 e ETH 2.0, existe alguma decisão sobre?
 
 Ainda não. (2021-03-03)
+
+## Curti esse faq, como faz pra doar?
+
+ETH: 0x15b9c3806cc4834fdac9dad6260fb12baeea9b00
+
+
