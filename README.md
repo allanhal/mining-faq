@@ -47,3 +47,13 @@ Sim, mas recomenda-se 8gb.
 ## Posso usar 4g ou wifi?
 
 TOTALMENTE não recomendável. Use cabeado.
+
+## Quais os dispositivos básicos para montar uma rig?
+
+- 1 cpu + cooler
+- placa mãe com pci express (PCIe)
+- 4gb ram (recomenda-se 8gb)
+- pendrive (hiveos) ou hd/ssd (windows)
+- fonte
+- placa de vídeo
+- risers caso deseje instalar várias placas
