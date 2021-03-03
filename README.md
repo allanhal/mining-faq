@@ -17,10 +17,6 @@ Flexpool:
 - NiceHash é interessante para aprender, mas não vale a pena continuar minerando nela.
 - Pesquise sobre mineradores (phoenix, t-rex, GMiner, Teamred), pools (ethermine, flexpool, 2miners) e wallets ([binance](https://www.binance.com/en/register?ref=80820708), coinomi, novadax, mercado bitcoin, paper wallet, hardware wallet).
 
-## Quais as melhores Pools?
-
-No Brasil atualmente: Ethermine, Flexpool, 2miners, nanopool...
-
 ## Quantos molex posso usar?
 
 Recomenda-se usar no máximo 2 molex por "perna" da fonte. Mesmo que a perna possua 4 molex por perna.
@@ -89,7 +85,7 @@ Não existe receita de bolo, mas existem algumas configs no:
 
 ## Qual a melhor pool?
 
-Depende.
+No Brasil atualmente: Ethermine, Flexpool, 2miners, nanopool...
 - Comparador de pools:
   - [ethminingpools.tk/](ethminingpools.tk/)
   - [miningpoolstats.stream/ethereum](miningpoolstats.stream/ethereum)
