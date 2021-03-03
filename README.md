@@ -117,3 +117,7 @@ Não. Tem exceção? Se vc está perguntando e pesquisando nesse FAQ...não.
 
 - GPU Core/Núcleo: Evite passar dos 70 graus.
 - GPU Memo/Memória: Evite passar dos 100 graus (poucas placas tem essa medição).
+
+## Qual a melhor placa de vídeo/gpu?
+
+- rtx 3070, rtx 3060 ti, rtx 3080, rx 580 8gb, rx 5700xt, rx 5600xt, rx 570 8gb, rx 5500 8gb.
