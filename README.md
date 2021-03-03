@@ -4,12 +4,12 @@
 ## Qual a pool que paga em menos tempo?
 
 Ethermine:
-Caso você minere 0.1 ETH vai receber na sua wallet todo dia.
-Caso você minere acima de 0.05 ETH vai receber a cada 7 dias.
-Caso você minere acima de 0.01 ETH vai receber a cada 14 dias.
+- Caso você minere 0.1 ETH vai receber na sua wallet todo dia.
+- Caso você minere acima de 0.05 ETH vai receber a cada 7 dias.
+- Caso você minere acima de 0.01 ETH vai receber a cada 14 dias.
 
 Flexpool:
-Pode ser configurada para receber a cada 0.05 ETH, independente de quanto tempo você demora para minerar.
+- Pode ser configurada para receber a cada 0.05 ETH, independente de quanto tempo você demora para minerar.
 
 ## Existe aplicativo melhor que a NiceHash?
 
