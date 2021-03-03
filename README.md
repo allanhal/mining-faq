@@ -19,3 +19,7 @@ NiceHash é interessante para aprender, mas não vale a pena continuar minerando
 ## Quais as melhores Pools?
 
 No Brasil atualmente: Ethermine, Flexpool, 2miners, nanopool...
+
+# Quantos molex posso usar?
+
+Recomenda-se usar no máximo 2 molex por "perna" da fonte. Mesmo que a perna possua 4 molex por perna.
