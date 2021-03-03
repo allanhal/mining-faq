@@ -31,3 +31,19 @@ Recomenda-se usar no máximo 2 molex por "perna" da fonte. Mesmo que a perna pos
 ## Como calcular meu custo de energia?
 
 [https://adrianoaoli.com/eletronica/calculadora-consumo-eletrico.html](https://adrianoaoli.com/eletronica/calculadora-consumo-eletrico.html)
+
+## Meu riser não conectou, o que eu faço?
+
+- Teste outro cabo (usb)
+- Teste outro riser
+- Teste outra porta pcie
+- Teste com outra placa de vídeo
+- Teste com outro fio de energia.
+
+## Consigo usar HiveOS com 4gb?
+
+Sim, mas recomenda-se 8gb.
+
+## Posso usar 4g ou wifi?
+
+TOTALMENTE não recomendável. Use cabeado.
