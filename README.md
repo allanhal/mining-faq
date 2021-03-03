@@ -13,9 +13,9 @@ Flexpool:
 
 ## Existe aplicativo melhor que a NiceHash?
 
-Sim, todos os outros.
-<br />
-NiceHash é interessante para aprender, mas não vale a pena continuar minerando nela.
+- Sim, todos os outros.
+- NiceHash é interessante para aprender, mas não vale a pena continuar minerando nela.
+- Pesquise sobre mineradores (phoenix, t-rex, GMiner, Teamred), pools (ethermine, flexpool, 2miners) e wallets (binance, coinomi, novadax, mercado bitcoin, paper wallet, hardware wallet).
 
 ## Quais as melhores Pools?
 
