@@ -79,3 +79,9 @@ alt="qrcode" width="15%" border="10" />
 [https://outervision.com/power-supply-calculator](https://outervision.com/power-supply-calculator)
 <br />
 Pode colocar o processador como 50% de consumo. Consome até menos.
+
+## Qual a melhor config pra minha placa de vídeo (OC)?
+
+Não existe receita de bolo, mas existem algumas configs no:
+- [https://miningchamber.com/](https://miningchamber.com/)
+- [whattomine.com](whattomine.com)
