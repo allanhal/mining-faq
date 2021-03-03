@@ -125,3 +125,9 @@ Não. Tem exceção? Se vc está perguntando e pesquisando nesse FAQ...não.
 ## Qual o motivo das placas estarem tão caras?
 
 Oferta demanda.
+
+## Qual a taxa para minerar?
+
+- PhoenixMiner: 0.65%
+- Teamred: 0.5~1%
+- T-rex: 0.5~1%
