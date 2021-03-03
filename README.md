@@ -116,3 +116,8 @@ Não. Tem exceção? Se vc está perguntando e pesquisando nesse FAQ...não.
 ## E Allan, qual a configuração que você usa?
 
 [twitch.tv/allanhal](twitch.tv/allanhal)
+
+## E a temperatura da minha placa, está alta?
+
+GPU Core/Núcleo: Evite passar dos 70 graus.
+GPU Memo/Memória: Evite passar dos 100 graus (poucas placas tem essa medição).
