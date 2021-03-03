@@ -86,3 +86,10 @@ Pode colocar o processador como 50% de consumo. Consome até menos.
 Não existe receita de bolo, mas existem algumas configs no:
 - [https://miningchamber.com/](https://miningchamber.com/)
 - [whattomine.com](whattomine.com)
+
+## Qual a melhor pool?
+
+Depende.
+- Comparador de pools:
+  - [https://ethminingpools.tk/](https://ethminingpools.tk/)
+  - [https://miningpoolstats.stream/ethereum](https://miningpoolstats.stream/ethereum)
