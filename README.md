@@ -1,7 +1,7 @@
 # FAQ sobre mineração:
 
 
-## "Qual a pool que paga em menos tempo?"
+## Qual a pool que paga em menos tempo?
 
 Ethermine:
 Caso você minere 0.1 ETH vai receber na sua wallet todo dia.
@@ -20,14 +20,14 @@ NiceHash é interessante para aprender, mas não vale a pena continuar minerando
 
 No Brasil atualmente: Ethermine, Flexpool, 2miners, nanopool...
 
-# Quantos molex posso usar?
+## Quantos molex posso usar?
 
 Recomenda-se usar no máximo 2 molex por "perna" da fonte. Mesmo que a perna possua 4 molex por perna.
 
-# Quanto dá por dia minha 2060/rx 580/2070?
+## Quanto dá por dia minha 2060/rx 580/2070?
 
 [whattomine.com](whattomine.com)
 
-# Como calcular meu custo de energia?
+## Como calcular meu custo de energia?
 
 [https://adrianoaoli.com/eletronica/calculadora-consumo-eletrico.html](https://adrianoaoli.com/eletronica/calculadora-consumo-eletrico.html)
