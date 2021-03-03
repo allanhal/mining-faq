@@ -112,3 +112,7 @@ Geralmente o fluxo é:
 ## Vale a pena minerar com CPU/Processador?
 
 Não. Tem exceção? Se vc está perguntando e pesquisando nesse FAQ...não.
+
+## E Allan, qual a configuração que você usa?
+
+[twitch.tv/allanhal](twitch.tv/allanhal)
