@@ -69,6 +69,7 @@ Ainda não. (2021-03-03)
 ## Curti esse faq, como faz pra doar?
 
 ETH: 0x15b9c3806cc4834fdac9dad6260fb12baeea9b00
+Chave do pix: 72626927-c1d0-4a35-b016-4d1c4ce57db9
 
 ## Como calcular o consumo do pc completo?
 
