@@ -142,3 +142,11 @@ Pool:
 ## Qual a rentabilidade da minha carteira atualmente em REAIS?
 
 [ethermine-watcher.vercel.app](http://ethermine-watcher.vercel.app/)
+
+## Vale a pena a RX 580 8gb das casas bahia?
+
+<img src="https://i.ibb.co/kcQP3F3/photo-2021-03-04-11-53-52.jpg" 
+alt="casas-bahia" width="15%" border="10" />
+- Não tem estoque!
+
+
