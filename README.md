@@ -103,7 +103,7 @@ No Brasil atualmente: Ethermine, Flexpool, 2miners, nanopool...
 Geralmente o fluxo é:
 - Minerador
 - Pool
-- Wallet
+- Wallet (recomendo [binance](https://www.binance.com/en/register?ref=80820708))
 - Conta bancária
 
 ## Vale a pena minerar com CPU/Processador?
