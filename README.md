@@ -145,9 +145,9 @@ Pool:
 
 ## Vale a pena a RX 580 8gb das casas bahia/oferta expressa?
 
-- Casas Bahia: Sem Estoque.
+- Casas Bahia: Sem Estoque. <br />
 <img src="https://i.ibb.co/kcQP3F3/photo-2021-03-04-11-53-52.jpg" 
 alt="casas-bahia" width="15%" border="10" />
-- Oferta Expressa: Golpe.
+- Oferta Expressa: Golpe. <br />
 <img src="https://i.ibb.co/W51GnjD/photo-2021-03-04-11-53-52.jpg" 
 alt="oferta expressa" width="30%" border="10" />
