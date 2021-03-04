@@ -40,7 +40,7 @@ Recomenda-se usar no máximo 2 molex por "perna" da fonte. Mesmo que a perna pos
 
 ## Consigo usar HiveOS com 4gb?
 
-Sim, mas recomenda-se 8gb.
+Sim roda até com 1gb. Mas recomenda-se valores mais altos.
 
 ## Posso usar 4g ou wifi?
 
