@@ -80,7 +80,7 @@ Pode colocar o processador como 50% de consumo. Consome até menos.
 ## Qual a melhor config pra minha placa de vídeo (OC)?
 
 Não existe receita de bolo, mas existem algumas configs no:
-- [miningchamber.com](https://miningchamber.com/)
+- [miningchamber.com](https://miningchamber.com)
 - [whattomine.com](https://whattomine.com)
 - Pesquise sobre configurações de overclock para mineração no youtube.
 
@@ -88,7 +88,7 @@ Não existe receita de bolo, mas existem algumas configs no:
 
 No Brasil atualmente: Ethermine, Flexpool, 2miners, nanopool...
 - Comparador de pools:
-  - [ethminingpools.tk/](https://ethminingpools.tk/)
+  - [ethminingpools.tk](https://ethminingpools.tk)
   - [miningpoolstats.stream/ethereum](https://miningpoolstats.stream/ethereum)
 
 
