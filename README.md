@@ -11,6 +11,10 @@ Ethermine configuração padrão:
 Flexpool:
 - Pode ser configurada para receber a cada 0.05 ETH, independente de quanto tempo você demora para minerar.
 
+## O que eu preciso pra sacar da pool pra wallet?
+
+Nada. Assim que bater os parametros mínimos de pagamento... vai pra sua carteira.
+
 ## Existe aplicativo melhor que a NiceHash?
 
 - Sim, todos os outros.
