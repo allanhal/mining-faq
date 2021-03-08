@@ -62,13 +62,14 @@ TOTALMENTE não recomendável. Use cabeado.
 - placa de vídeo
 - risers caso deseje instalar várias placas
 
-## Ethereum (ETH) vai subir ou cair?
+## Ethereum (ETH) ou Bitcoin (BTC) vai subir ou cair?
 
 50% de chance de cair e 50% de chance de subir. Pare de tentar advinhar e não acredite em quem tenta.
 
 ## EIP 1559 e ETH 2.0, existe alguma decisão sobre?
 
 Ainda não. (2021-03-03)
+EIP Confirmado para Julho. Isso n garante que vai piorar ou melhorar para mineradores. Mas o chute é que vai piorar (novamente... chute, tem zero valor no mundo real).
 
 ## Curti esse faq, como faz pra doar?
 
