@@ -159,3 +159,36 @@ alt="oferta expressa" width="30%" border="10" />
 ## Quais placas vão vir capadas/limitadas de fabrica? 
 
 3060 e 3080 ti por enquanto.
+
+## Qual placa de vídeo comprar? Qual o ROI de uma placa de vídeo? (Contribuição do Lucas Nishimura)
+
+Com a alta na mineração ultimamente, os preços de placas de vídeo no mundo todo está extremamente alto. Isso se deve a falta de componentes nas fábricas, problemas de logística, pandemia, etc.
+
+Muitos novos mineradores estão estrando no mercado e com isso a demanda aumentou demais, com isso vou ajudar a realizar o cálculo do ROI (Retorno de Investimento) para uma placa de vídeo. Assim você poderá calcular e entender quanto tempo vai ter o seu investimento de volta e com isso começar a ganhar dinheiro.
+
+*Lembrando também que, se alguém ainda não sabe a mineração é uma renda VARIÁVEL, logo se o preço cai, o seu rendimento será menor e com isso o seu retorno irá aumentar, SEMPRE leve isso em consideração!!!!*
+
+ 1. Entre no site [whattomine.com](http://whattomine.com/)
+ 2. Selecione a placa que deseja comprar
+ 3. Coloque o número de placas que irá utilizar
+ 4. Após selecionar, clique em “Calculate”
+ 5. Com isso terá o retorno diário da seleção, multiplique por 30 que chegará no valor de retorno mensal.
+ 6. Para calcular o seu ROI, faça: Valor da placa dividido pelo retorno mensal
+
+### Exemplo
+
+Uma placa RTX 3070 da Nvidia no dia de hoje 07/03/2021 está no mínimo R$8300,00 reais na Kabum
+
+Uma 3070 de acordo com o site da What to Mine faz 5.24 dólares por dia. Esse número vezes 30 daria um rendimento mensal de 157.20 dólares.
+Com o dolar a 5,69 chegamos ao valor de 894 reais.
+
+O cálculo ficaria assim: 8300 / 894 = 9 meses 
+
+Isso mostra que os preços estão altos demais e que mesmo com o rendimento muito bom, você levaria muito tempo para ter o retorno do seu dinheiro de volta!
+
+
+Pronto! Com isso você consegue chegar no tempo que levaria para retornar o seu investimento inicial. Um tempo maior que 6 meses na minha opinião não é bom, logo que o mercado é extremamente volátil e tudo pode acontecer.
+
+### EXTRA
+
+Com o EIP1559 confirmado para Julho de 2021, as taxas que mineradores irão receber será reduzida entre 20% a 40%(só será confirmado quando entrar em vigor). Logo caso o seu investimento passe do mês de julho, considere que seus ganhos serão menores com o Ethereum!
