@@ -119,6 +119,8 @@ Não. Tem exceção? Se vc está perguntando e pesquisando nesse FAQ...não.
 
 ## E Allan, qual a configuração que você usa?
 
+PhoenixMiner.exe -pool stratum://eth-br.flexpool.io:4444 -wal 0x15b9c3806cc4834fdac9dad6260fb12baeea9b00.Rig_allanhaleth
+<br />
 [twitch.tv/allanhal](https://twitch.tv/allanhal)
 
 ## E a temperatura da minha placa, está alta?
