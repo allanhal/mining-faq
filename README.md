@@ -33,6 +33,8 @@ Recomenda-se usar no máximo 2 molex por "perna" da fonte. Mesmo que a perna pos
 ## Como calcular meu custo de energia?
 
 [adrianoaoli.com/eletronica/calculadora-consumo-eletrico.html](https://adrianoaoli.com/eletronica/calculadora-consumo-eletrico.html)
+[m.fiesp.com.br/calculadora-energia](http://m.fiesp.com.br/calculadora-energia/#)
+
 
 ## Meu riser não conectou, o que eu faço?
 
