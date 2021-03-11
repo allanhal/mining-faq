@@ -197,3 +197,14 @@ Pronto! Com isso você consegue chegar no tempo que levaria para retornar o seu 
 ### EXTRA
 
 Com o EIP1559 confirmado para Julho de 2021, as taxas que mineradores irão receber será reduzida entre 20% a 40%(só será confirmado quando entrar em vigor). Logo caso o seu investimento passe do mês de julho, considere que seus ganhos serão menores com o Ethereum!
+
+## Qual motivo de stalles alto?
+
+- Ping Alto
+- Pool com problema
+- Ficar usando tarefa de GPU eqt minera
+- Internet ruim
+- Aplicativo bugado (as vezes tem q reiniciar)
+- OC Forte demais
+- Gpu com problema
+- Outros motivos não listados, pois nem tudo é exato...
