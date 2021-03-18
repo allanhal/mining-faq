@@ -119,9 +119,27 @@ Não. Tem exceção? Se vc está perguntando e pesquisando nesse FAQ...não.
 
 ## E Allan, qual a configuração que você usa?
 
-PhoenixMiner.exe -pool stratum://eth-br.flexpool.io:4444 -wal 0x15b9c3806cc4834fdac9dad6260fb12baeea9b00.Rig_allanhaleth
+PhoenixMiner.exe -pool us1.ethermine.org:4444 -pool us2.ethermine.org:4444 -wal 0x15b9c3806cc4834fdac9dad6260fb12baeea9b00.Rig_allanhaleth
 <br />
-[twitch.tv/allanhal](https://twitch.tv/allanhal)
+### Placas
+- Zotac RTX 3080 Trinity 10GB (102 MH/s on Phoenix Miner 5.5c)
+  - Power Limit: 78%
+  - Temp. Limit: 70c
+  - Core Clock (MHz): -502
+  - Memory Clock (MHz): +1450
+  - Fan Speed (%): 85
+- MSI RX 5700 XT Mech OC 8GB (53 MH/s on Phoenix Miner 5.5c)
+  - Core Voltage (mV): 840
+  - Power Limit (%): -36
+  - Core Clock (MHz): 1350
+  - Memory Clock (MHz): 1850
+  - Fan Speed (%): 85
+- EVGA GTX 1660 XC 6GB
+  - Memory Clock (MHz): +990
+### Software:
+  - Minerador: Phoenix Miner 5.5c
+  - Pool: Ethermine
+  - Wallet: Binance
 
 ## E a temperatura da minha placa, está alta?
 
